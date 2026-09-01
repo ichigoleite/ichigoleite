@@ -1,5 +1,5 @@
 # Hello, world!
-Hello, my name is PicelBoi. I'm 16 years old and I work on multiple projects and such.
+Hello, my name is ichigoleite.
 
 ## Known programming languages 
 (Ranked in terms of how well I know then)
@@ -15,7 +15,7 @@ Hello, my name is PicelBoi. I'm 16 years old and I work on multiple projects and
 - POD2GLB (A fork that fixes a few bugs and adds a but load of features compared to the original script. Converts POD files to glTF binary files, specifically meant for the now discontinued mobile social media app Miitomo.)
 - Tomodachi Life Personality Quiz Repatched (A patched version of a personality quiz used to promote Tomodachi Life.)
 
-To learn more, check out my website, https://picelboi.xyz.
+To learn more, check out my website, https://ichigoleite.com.
 
 ## Hackatime
 <!--START_SECTION:waka-->
@@ -49,7 +49,7 @@ To learn more, check out my website, https://picelboi.xyz.
 {{end}}
 
 ## Most stars
-{{range popularRepos "PicelBoi" 5}}  
+{{range popularRepos "ichigoleite" 5}}  
 - **Name**: {{.Name}}  
   **NameWithOwner**: {{.NameWithOwner}}  
   **Description**: {{.Description}}  
