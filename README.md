@@ -101,7 +101,7 @@ To learn more, check out my website, https://ichigoleite.com.
   
 - **Name**: android_kernel_kyocera_902KC  
   **Description**: 902KC kernel from Kyocera  
-  **URL**: https://github.com/PicelBoi-Keitai-Works/android_kernel_kyocera_902KC)  
+  **URL**: https://github.com/ichigoleite-keitai-works/android_kernel_kyocera_902KC)  
   **Occurred**: 2 months ago  
 
 
