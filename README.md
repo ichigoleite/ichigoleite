@@ -1,5 +1,5 @@
 # Hello, world!
-Hello, my name is PicelBoi. I'm 16 years old and I work on multiple projects and such.
+Hello, my name is ichigoleite.
 
 ## Known programming languages 
 (Ranked in terms of how well I know then)
@@ -15,7 +15,7 @@ Hello, my name is PicelBoi. I'm 16 years old and I work on multiple projects and
 - POD2GLB (A fork that fixes a few bugs and adds a but load of features compared to the original script. Converts POD files to glTF binary files, specifically meant for the now discontinued mobile social media app Miitomo.)
 - Tomodachi Life Personality Quiz Repatched (A patched version of a personality quiz used to promote Tomodachi Life.)
 
-To learn more, check out my website, https://picelboi.xyz.
+To learn more, check out my website, https://ichigoleite.com.
 
 ## Hackatime
 <!--START_SECTION:waka-->
@@ -79,6 +79,11 @@ To learn more, check out my website, https://picelboi.xyz.
 
 ## Contributions
   
+- **Name**: innermachinations  
+  **Description**:   
+  **URL**: https://github.com/ichigoleite/innermachinations)  
+  **Occurred**: 1 day ago  
+  
 - **Name**: Encode2It  
   **Description**: An encoder for the Zap2It cable guide.  
   **URL**: https://github.com/ichigoleite/Encode2It)  
@@ -98,12 +103,37 @@ To learn more, check out my website, https://picelboi.xyz.
   **Description**: 902KC kernel from Kyocera  
   **URL**: https://github.com/PicelBoi-Keitai-Works/android_kernel_kyocera_902KC)  
   **Occurred**: 2 months ago  
-  
-- **Name**: android_kernel_kyocera_kyf42  
-  **Description**: KYF42 kernel from Kyocera  
-  **URL**: https://github.com/PicelBoi-Keitai-Works/android_kernel_kyocera_kyf42)  
-  **Occurred**: 2 months ago  
 
 
 ## Most stars
+  
+- **Name**: pvr-model-extractor  
+  **NameWithOwner**: ichigoleite/pvr-model-extractor  
+  **Description**: Python decompiler for the .pod model format used in some of Nintendo's mobile games  
+  **URL**: https://github.com/ichigoleite/pvr-model-extractor)  
+  **Stars**: 3  
+  
+- **Name**: Weirderscan  
+  **NameWithOwner**: ichigoleite/Weirderscan  
+  **Description**: A skin for Weatherscan.  
+  **URL**: https://github.com/ichigoleite/Weirderscan)  
+  **Stars**: 2  
+  
+- **Name**: Encode2It  
+  **NameWithOwner**: ichigoleite/Encode2It  
+  **Description**: An encoder for the Zap2It cable guide.  
+  **URL**: https://github.com/ichigoleite/Encode2It)  
+  **Stars**: 1  
+  
+- **Name**: tlifequiz  
+  **NameWithOwner**: ichigoleite/tlifequiz  
+  **Description**: A repatched version of the Tomodachi Life personality quiz.  
+  **URL**: https://github.com/ichigoleite/tlifequiz)  
+  **Stars**: 1  
+  
+- **Name**: Widerscan  
+  **NameWithOwner**: ichigoleite/Widerscan  
+  **Description**: Weatherscan in a 16:9 format. Very lazy edits here.  
+  **URL**: https://github.com/ichigoleite/Widerscan)  
+  **Stars**: 1  
 
