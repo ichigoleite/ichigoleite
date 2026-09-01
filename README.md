@@ -80,9 +80,9 @@ To learn more, check out my website, https://ichigoleite.com.
 ## Contributions
   
 - **Name**: innermachinations  
-  **Description**:   
+  **Description**: a miitomo question compilation  
   **URL**: https://github.com/ichigoleite/innermachinations)  
-  **Occurred**: 1 day ago  
+  **Occurred**: today  
   
 - **Name**: Encode2It  
   **Description**: An encoder for the Zap2It cable guide.  
