@@ -79,14 +79,14 @@ To learn more, check out my website, https://ichigoleite.com.
 
 ## Contributions
   
-- **Name**: innermachinations  
-  **Description**: a miitomo question compilation  
-  **URL**: https://github.com/ichigoleite/innermachinations)  
-  **Occurred**: 1 day ago  
-  
 - **Name**: android_vendor_kyocera_902KC  
   **Description**: Vendor files for kyocera 902kc  
   **URL**: https://github.com/ichigoleite-keitai-works/android_vendor_kyocera_902KC)  
+  **Occurred**: 1 day ago  
+  
+- **Name**: innermachinations  
+  **Description**: a miitomo question compilation  
+  **URL**: https://github.com/ichigoleite/innermachinations)  
   **Occurred**: 1 day ago  
   
 - **Name**: local_manifests  
