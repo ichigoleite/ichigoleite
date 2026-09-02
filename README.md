@@ -82,27 +82,27 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: innermachinations  
   **Description**: a miitomo question compilation  
   **URL**: https://github.com/ichigoleite/innermachinations)  
-  **Occurred**: today  
+  **Occurred**: 1 day ago  
+  
+- **Name**: android_vendor_kyocera_902KC  
+  **Description**: Vendor files for kyocera 902kc  
+  **URL**: https://github.com/ichigoleite-keitai-works/android_vendor_kyocera_902KC)  
+  **Occurred**: 1 day ago  
+  
+- **Name**: local_manifests  
+  **Description**:   
+  **URL**: https://github.com/ichigoleite-keitai-works/local_manifests)  
+  **Occurred**: 1 day ago  
   
 - **Name**: Encode2It  
   **Description**: An encoder for the Zap2It cable guide.  
   **URL**: https://github.com/ichigoleite/Encode2It)  
-  **Occurred**: 2 weeks ago  
+  **Occurred**: 3 weeks ago  
   
 - **Name**: iskaerutomoup  
   **Description**: This is a site that does this ig  
   **URL**: https://github.com/ichigoleite/iskaerutomoup)  
   **Occurred**: 1 month ago  
-  
-- **Name**: pyJSOBSL  
-  **Description**:   
-  **URL**: https://github.com/ichigoleite/pyJSOBSL)  
-  **Occurred**: 2 months ago  
-  
-- **Name**: android_kernel_kyocera_902KC  
-  **Description**: 902KC kernel from Kyocera  
-  **URL**: https://github.com/ichigoleite-keitai-works/android_kernel_kyocera_902KC)  
-  **Occurred**: 2 months ago  
 
 
 ## Most stars
