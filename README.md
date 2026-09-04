@@ -82,17 +82,17 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: android_vendor_kyocera_902KC  
   **Description**: Vendor files for kyocera 902kc  
   **URL**: https://github.com/ichigoleite-keitai-works/android_vendor_kyocera_902KC)  
-  **Occurred**: 2 days ago  
-  
-- **Name**: innermachinations  
-  **Description**: a miitomo question compilation  
-  **URL**: https://github.com/ichigoleite/innermachinations)  
-  **Occurred**: 2 days ago  
+  **Occurred**: 1 day ago  
   
 - **Name**: local_manifests  
   **Description**:   
   **URL**: https://github.com/ichigoleite-keitai-works/local_manifests)  
-  **Occurred**: 2 days ago  
+  **Occurred**: 3 days ago  
+  
+- **Name**: innermachinations  
+  **Description**: a miitomo question compilation  
+  **URL**: https://github.com/ichigoleite/innermachinations)  
+  **Occurred**: 3 days ago  
   
 - **Name**: Encode2It  
   **Description**: An encoder for the Zap2It cable guide.  
