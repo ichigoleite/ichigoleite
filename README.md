@@ -79,6 +79,11 @@ To learn more, check out my website, https://ichigoleite.com.
 
 ## Contributions
   
+- **Name**: android_kernel_kyocera_902KC  
+  **Description**: 902KC kernel from Kyocera  
+  **URL**: https://github.com/ichigoleite-keitai-works/android_kernel_kyocera_902KC)  
+  **Occurred**: 1 day ago  
+  
 - **Name**: android_vendor_kyocera_902KC  
   **Description**: Vendor files for kyocera 902kc  
   **URL**: https://github.com/ichigoleite-keitai-works/android_vendor_kyocera_902KC)  
@@ -98,11 +103,6 @@ To learn more, check out my website, https://ichigoleite.com.
   **Description**: An encoder for the Zap2It cable guide.  
   **URL**: https://github.com/ichigoleite/Encode2It)  
   **Occurred**: 3 weeks ago  
-  
-- **Name**: iskaerutomoup  
-  **Description**: This is a site that does this ig  
-  **URL**: https://github.com/ichigoleite/iskaerutomoup)  
-  **Occurred**: 1 month ago  
 
 
 ## Most stars
