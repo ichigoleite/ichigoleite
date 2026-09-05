@@ -79,6 +79,11 @@ To learn more, check out my website, https://ichigoleite.com.
 
 ## Contributions
   
+- **Name**: mist-live  
+  **Description**: This repository is used for reporting bugs with Mist Live.  
+  **URL**: https://github.com/MistWeatherMedia/mist-live)  
+  **Occurred**: today  
+  
 - **Name**: android_kernel_kyocera_902KC  
   **Description**: 902KC kernel from Kyocera  
   **URL**: https://github.com/ichigoleite-keitai-works/android_kernel_kyocera_902KC)  
@@ -93,11 +98,6 @@ To learn more, check out my website, https://ichigoleite.com.
   **Description**: Vendor files for kyocera 902kc  
   **URL**: https://github.com/ichigoleite-keitai-works/android_vendor_kyocera_902KC)  
   **Occurred**: 2 days ago  
-  
-- **Name**: innermachinations  
-  **Description**: a miitomo question compilation  
-  **URL**: https://github.com/ichigoleite/innermachinations)  
-  **Occurred**: 4 days ago  
   
 - **Name**: local_manifests  
   **Description**:   
