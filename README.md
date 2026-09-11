@@ -99,9 +99,9 @@ To learn more, check out my website, https://ichigoleite.com.
   **URL**: https://github.com/ichigoleite-keitai-works/android_vendor_kyocera_902KC)  
   **Occurred**: 1 week ago  
   
-- **Name**: innermachinations  
-  **Description**: a miitomo question compilation  
-  **URL**: https://github.com/ichigoleite/innermachinations)  
+- **Name**: local_manifests  
+  **Description**:   
+  **URL**: https://github.com/ichigoleite-keitai-works/local_manifests)  
   **Occurred**: 1 week ago  
 
 
