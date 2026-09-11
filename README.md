@@ -82,17 +82,17 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: android_kernel_kyocera_902KC  
   **Description**: 902KC kernel from Kyocera  
   **URL**: https://github.com/ichigoleite-keitai-works/android_kernel_kyocera_902KC)  
-  **Occurred**: 4 days ago  
+  **Occurred**: 5 days ago  
   
 - **Name**: mist-live  
   **Description**: This repository is used for reporting bugs with Mist Live.  
   **URL**: https://github.com/MistWeatherMedia/mist-live)  
-  **Occurred**: 5 days ago  
+  **Occurred**: 6 days ago  
   
 - **Name**: 902KC-unused-webpage  
   **Description**:   
   **URL**: https://github.com/ichigoleite/902KC-unused-webpage)  
-  **Occurred**: 6 days ago  
+  **Occurred**: 1 week ago  
   
 - **Name**: android_vendor_kyocera_902KC  
   **Description**: Vendor files for kyocera 902kc  
