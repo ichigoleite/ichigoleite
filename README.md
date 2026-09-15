@@ -102,7 +102,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: local_manifests  
   **Description**:   
   **URL**: https://github.com/ichigoleite-keitai-works/local_manifests)  
-  **Occurred**: 1 week ago  
+  **Occurred**: 2 weeks ago  
 
 
 ## Most stars
