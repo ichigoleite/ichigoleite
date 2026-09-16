@@ -63,7 +63,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Title**: Code cleanup  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/21  
   **State**: MERGED  
-  **CreatedAt**: 7 months ago  
+  **CreatedAt**: 8 months ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
@@ -71,7 +71,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Title**: Severe wx qualifiers  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/20  
   **State**: MERGED  
-  **CreatedAt**: 7 months ago  
+  **CreatedAt**: 8 months ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
