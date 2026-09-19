@@ -87,7 +87,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: mist-live  
   **Description**: This repository is used for reporting bugs with Mist Live.  
   **URL**: https://github.com/MistWeatherMedia/mist-live)  
-  **Occurred**: 1 week ago  
+  **Occurred**: 2 weeks ago  
   
 - **Name**: 902KC-unused-webpage  
   **Description**:   
