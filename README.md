@@ -84,6 +84,11 @@ To learn more, check out my website, https://ichigoleite.com.
 
 ## Contributions
   
+- **Name**: innermachinations  
+  **Description**: a miitomo question compilation  
+  **URL**: https://github.com/ichigoleite/innermachinations)  
+  **Occurred**: today  
+  
 - **Name**: Weirderscan  
   **Description**: A skin for Weatherscan.  
   **URL**: https://github.com/ichigoleite/Weirderscan)  
@@ -102,11 +107,6 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: 902KC-unused-webpage  
   **Description**:   
   **URL**: https://github.com/ichigoleite/902KC-unused-webpage)  
-  **Occurred**: 2 weeks ago  
-  
-- **Name**: android_vendor_kyocera_902KC  
-  **Description**: Vendor files for kyocera 902kc  
-  **URL**: https://github.com/ichigoleite-keitai-works/android_vendor_kyocera_902KC)  
   **Occurred**: 2 weeks ago  
 
 
