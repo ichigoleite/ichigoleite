@@ -84,6 +84,11 @@ To learn more, check out my website, https://ichigoleite.com.
 
 ## Contributions
   
+- **Name**: Encode2It  
+  **Description**: An encoder for the Zap2It cable guide.  
+  **URL**: https://github.com/ichigoleite/Encode2It)  
+  **Occurred**: today  
+  
 - **Name**: innermachinations  
   **Description**: a miitomo question compilation  
   **URL**: https://github.com/ichigoleite/innermachinations)  
@@ -102,11 +107,6 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: mist-live  
   **Description**: This repository is used for reporting bugs with Mist Live.  
   **URL**: https://github.com/MistWeatherMedia/mist-live)  
-  **Occurred**: 2 weeks ago  
-  
-- **Name**: 902KC-unused-webpage  
-  **Description**:   
-  **URL**: https://github.com/ichigoleite/902KC-unused-webpage)  
   **Occurred**: 2 weeks ago  
 
 
