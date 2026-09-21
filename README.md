@@ -87,12 +87,12 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: innermachinations  
   **Description**: a miitomo question compilation  
   **URL**: https://github.com/ichigoleite/innermachinations)  
-  **Occurred**: today  
+  **Occurred**: 1 day ago  
   
 - **Name**: Weirderscan  
   **Description**: A skin for Weatherscan.  
   **URL**: https://github.com/ichigoleite/Weirderscan)  
-  **Occurred**: 1 day ago  
+  **Occurred**: 2 days ago  
   
 - **Name**: android_kernel_kyocera_902KC  
   **Description**: 902KC kernel from Kyocera  
