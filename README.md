@@ -24,9 +24,9 @@ To learn more, check out my website, https://ichigoleite.com.
 ## Releases
 
 - **Name**: Encode2It  
-  **Git Tag**: v1.0.0-mist-delimited  
-  **URL**: https://github.com/ichigoleite/Encode2It/releases/tag/v1.0.0-mist-delimited  
-  **Published**: 1 month ago  
+  **Git Tag**: v1.1.0  
+  **URL**: https://github.com/ichigoleite/Encode2It/releases/tag/v1.1.0  
+  **Published**: today  
 
 - **Name**: i2ME  
   **Git Tag**: v1.4RC1  
