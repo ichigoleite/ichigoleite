@@ -26,7 +26,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: Encode2It  
   **Git Tag**: v1.1.0  
   **URL**: https://github.com/ichigoleite/Encode2It/releases/tag/v1.1.0  
-  **Published**: 4 days ago  
+  **Published**: 5 days ago  
 
 - **Name**: i2ME  
   **Git Tag**: v1.4RC1  
@@ -87,17 +87,17 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: Encode2It  
   **Description**: An encoder for the Zap2It cable guide.  
   **URL**: https://github.com/ichigoleite/Encode2It)  
-  **Occurred**: 4 days ago  
+  **Occurred**: 5 days ago  
   
 - **Name**: innermachinations  
   **Description**: a miitomo question compilation  
   **URL**: https://github.com/ichigoleite/innermachinations)  
-  **Occurred**: 5 days ago  
+  **Occurred**: 6 days ago  
   
 - **Name**: Weirderscan  
   **Description**: A skin for Weatherscan.  
   **URL**: https://github.com/ichigoleite/Weirderscan)  
-  **Occurred**: 6 days ago  
+  **Occurred**: 1 week ago  
   
 - **Name**: android_kernel_kyocera_902KC  
   **Description**: 902KC kernel from Kyocera  
@@ -107,7 +107,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: mist-live  
   **Description**: This repository is used for reporting bugs with Mist Live.  
   **URL**: https://github.com/MistWeatherMedia/mist-live)  
-  **Occurred**: 2 weeks ago  
+  **Occurred**: 3 weeks ago  
 
 
 ## Most stars
