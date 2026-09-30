@@ -84,6 +84,11 @@ To learn more, check out my website, https://ichigoleite.com.
 
 ## Contributions
   
+- **Name**: IntelliEncoder-1  
+  **Description**:   
+  **URL**: https://github.com/ichigoleite/IntelliEncoder-1)  
+  **Occurred**: 1 day ago  
+  
 - **Name**: Encode2It  
   **Description**: An encoder for the Zap2It cable guide.  
   **URL**: https://github.com/ichigoleite/Encode2It)  
@@ -102,11 +107,6 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: android_kernel_kyocera_902KC  
   **Description**: 902KC kernel from Kyocera  
   **URL**: https://github.com/ichigoleite-keitai-works/android_kernel_kyocera_902KC)  
-  **Occurred**: 3 weeks ago  
-  
-- **Name**: mist-live  
-  **Description**: This repository is used for reporting bugs with Mist Live.  
-  **URL**: https://github.com/MistWeatherMedia/mist-live)  
   **Occurred**: 3 weeks ago  
 
 
