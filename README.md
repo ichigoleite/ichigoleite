@@ -130,15 +130,15 @@ To learn more, check out my website, https://ichigoleite.com.
   **URL**: https://github.com/ichigoleite/Weirderscan)  
   **Stars**: 2  
   
+- **Name**: IntelliEncoder-1  
+  **NameWithOwner**: ichigoleite/IntelliEncoder-1  
+  **Description**:   
+  **URL**: https://github.com/ichigoleite/IntelliEncoder-1)  
+  **Stars**: 1  
+  
 - **Name**: tlifequiz  
   **NameWithOwner**: ichigoleite/tlifequiz  
   **Description**: A repatched version of the Tomodachi Life personality quiz.  
   **URL**: https://github.com/ichigoleite/tlifequiz)  
-  **Stars**: 1  
-  
-- **Name**: Widerscan  
-  **NameWithOwner**: ichigoleite/Widerscan  
-  **Description**: Weatherscan in a 16:9 format. Very lazy edits here.  
-  **URL**: https://github.com/ichigoleite/Widerscan)  
   **Stars**: 1  
 
