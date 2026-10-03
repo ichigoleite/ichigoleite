@@ -118,6 +118,12 @@ To learn more, check out my website, https://ichigoleite.com.
   **URL**: https://github.com/ichigoleite/pvr-model-extractor)  
   **Stars**: 3  
   
+- **Name**: IntelliEncoder-1  
+  **NameWithOwner**: ichigoleite/IntelliEncoder-1  
+  **Description**:   
+  **URL**: https://github.com/ichigoleite/IntelliEncoder-1)  
+  **Stars**: 2  
+  
 - **Name**: Encode2It  
   **NameWithOwner**: ichigoleite/Encode2It  
   **Description**: An encoder for the Zap2It cable guide.  
@@ -129,12 +135,6 @@ To learn more, check out my website, https://ichigoleite.com.
   **Description**: A skin for Weatherscan.  
   **URL**: https://github.com/ichigoleite/Weirderscan)  
   **Stars**: 2  
-  
-- **Name**: IntelliEncoder-1  
-  **NameWithOwner**: ichigoleite/IntelliEncoder-1  
-  **Description**:   
-  **URL**: https://github.com/ichigoleite/IntelliEncoder-1)  
-  **Stars**: 1  
   
 - **Name**: tlifequiz  
   **NameWithOwner**: ichigoleite/tlifequiz  
