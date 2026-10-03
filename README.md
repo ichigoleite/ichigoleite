@@ -87,7 +87,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: IntelliEncoder-1  
   **Description**:   
   **URL**: https://github.com/ichigoleite/IntelliEncoder-1)  
-  **Occurred**: 1 day ago  
+  **Occurred**: 2 days ago  
   
 - **Name**: Encode2It  
   **Description**: An encoder for the Zap2It cable guide.  
@@ -102,7 +102,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: Weirderscan  
   **Description**: A skin for Weatherscan.  
   **URL**: https://github.com/ichigoleite/Weirderscan)  
-  **Occurred**: 1 week ago  
+  **Occurred**: 2 weeks ago  
   
 - **Name**: android_kernel_kyocera_902KC  
   **Description**: 902KC kernel from Kyocera  
