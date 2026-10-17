@@ -60,7 +60,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Title**: Airport delays  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/22  
   **State**: MERGED  
-  **CreatedAt**: 8 months ago  
+  **CreatedAt**: 9 months ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
@@ -107,7 +107,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: Weirderscan  
   **Description**: A skin for Weatherscan.  
   **URL**: https://github.com/ichigoleite/Weirderscan)  
-  **Occurred**: 3 weeks ago  
+  **Occurred**: 4 weeks ago  
 
 
 ## Most stars
