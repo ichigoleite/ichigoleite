@@ -102,7 +102,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: innermachinations  
   **Description**: a miitomo question compilation  
   **URL**: https://github.com/ichigoleite/innermachinations)  
-  **Occurred**: 4 weeks ago  
+  **Occurred**: 1 month ago  
   
 - **Name**: Weirderscan  
   **Description**: A skin for Weatherscan.  
