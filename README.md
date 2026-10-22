@@ -31,7 +31,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: i2ME  
   **Git Tag**: v1.4RC1  
   **URL**: https://github.com/MistWeatherMedia/i2ME/releases/tag/v1.4RC1  
-  **Published**: 8 months ago  
+  **Published**: 9 months ago  
 
 - **Name**: Weirderscan  
   **Git Tag**: v1.2.1  
