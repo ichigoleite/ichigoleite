@@ -60,7 +60,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Title**: Airport delays  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/22  
   **State**: MERGED  
-  **CreatedAt**: 9 months ago  
+  **CreatedAt**: 10 months ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
@@ -68,7 +68,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Title**: Code cleanup  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/21  
   **State**: MERGED  
-  **CreatedAt**: 9 months ago  
+  **CreatedAt**: 10 months ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
@@ -76,7 +76,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Title**: Severe wx qualifiers  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/20  
   **State**: MERGED  
-  **CreatedAt**: 9 months ago  
+  **CreatedAt**: 10 months ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
@@ -87,7 +87,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: iskaerutomoup  
   **Description**: This is a site that does this ig  
   **URL**: https://github.com/ichigoleite/iskaerutomoup)  
-  **Occurred**: 5 days ago  
+  **Occurred**: 2 weeks ago  
   
 - **Name**: IntelliEncoder-1  
   **Description**:   
@@ -107,7 +107,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: innermachinations  
   **Description**: a miitomo question compilation  
   **URL**: https://github.com/ichigoleite/innermachinations)  
-  **Occurred**: 1 month ago  
+  **Occurred**: 2 months ago  
 
 
 ## Most stars
