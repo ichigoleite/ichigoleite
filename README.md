@@ -26,7 +26,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: Encode2It  
   **Git Tag**: v1.1.0  
   **URL**: https://github.com/ichigoleite/Encode2It/releases/tag/v1.1.0  
-  **Published**: 1 month ago  
+  **Published**: 2 months ago  
 
 - **Name**: i2ME  
   **Git Tag**: v1.4RC1  
@@ -102,7 +102,7 @@ To learn more, check out my website, https://ichigoleite.com.
 - **Name**: Encode2It  
   **Description**: An encoder for the Zap2It cable guide.  
   **URL**: https://github.com/ichigoleite/Encode2It)  
-  **Occurred**: 1 month ago  
+  **Occurred**: 2 months ago  
   
 - **Name**: innermachinations  
   **Description**: a miitomo question compilation  
